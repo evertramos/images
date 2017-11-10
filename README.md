@@ -1,5 +1,4 @@
-# images
-Public Images
+# Public Images
 
 ## We will try our best to develop our own images, or sometime use free pictures from web, with specific authorization.
 
